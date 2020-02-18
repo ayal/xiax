@@ -1,0 +1,3 @@
+export default {
+ board: ["rook_black", "knight_black", "bishop_black", "queen_black", "king_black", "bishop_black", null, "rook_black", "pawn_black", "pawn_black", "pawn_black", "pawn_black", "pawn_black", "pawn_black", "pawn_black", "pawn_black", null, null, null, null, null, "knight_black", null, null, null, null, null, null, null, null, null, null, null, null, null, null, "pawn_white", "pawn_white", null, null, null, null, null, null, null, null, "pawn_white", null, "pawn_white", "pawn_white", "pawn_white", "pawn_white", null, null, null, "pawn_white", "rook_white", "knight_white", "bishop_white", "queen_white", "king_white", "bishop_white", "knight_white", "rook_white"]
+}
