@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8924e3f41c8799c6170feabb8d9760f0",
+    "revision": "da541258fa304df9dde9e865dca83309",
     "url": "/xiax/index.html"
   },
   {
-    "revision": "8bce6f204c41bbd782af",
+    "revision": "58c598cd9fa3e1a45612",
     "url": "/xiax/static/css/main.8cccc650.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/xiax/static/js/2.d0125111.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8bce6f204c41bbd782af",
-    "url": "/xiax/static/js/main.c3c5bd5c.chunk.js"
+    "revision": "58c598cd9fa3e1a45612",
+    "url": "/xiax/static/js/main.717683af.chunk.js"
   },
   {
     "revision": "1b08880be90367de3c00",
