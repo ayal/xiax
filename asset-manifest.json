@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/xiax/static/css/main.8cccc650.chunk.css",
-    "main.js": "/xiax/static/js/main.f8cccc77.chunk.js",
-    "main.js.map": "/xiax/static/js/main.f8cccc77.chunk.js.map",
+    "main.js": "/xiax/static/js/main.cf3e8b9a.chunk.js",
+    "main.js.map": "/xiax/static/js/main.cf3e8b9a.chunk.js.map",
     "runtime-main.js": "/xiax/static/js/runtime-main.86dd4ac8.js",
     "runtime-main.js.map": "/xiax/static/js/runtime-main.86dd4ac8.js.map",
-    "static/js/2.d0125111.chunk.js": "/xiax/static/js/2.d0125111.chunk.js",
-    "static/js/2.d0125111.chunk.js.map": "/xiax/static/js/2.d0125111.chunk.js.map",
+    "static/js/2.09dc6570.chunk.js": "/xiax/static/js/2.09dc6570.chunk.js",
+    "static/js/2.09dc6570.chunk.js.map": "/xiax/static/js/2.09dc6570.chunk.js.map",
     "index.html": "/xiax/index.html",
-    "precache-manifest.5620c7134ff64e331d1b93c4b9bff636.js": "/xiax/precache-manifest.5620c7134ff64e331d1b93c4b9bff636.js",
+    "precache-manifest.9dda7a96b3d616280dbb02081abafeb9.js": "/xiax/precache-manifest.9dda7a96b3d616280dbb02081abafeb9.js",
     "service-worker.js": "/xiax/service-worker.js",
     "static/css/main.8cccc650.chunk.css.map": "/xiax/static/css/main.8cccc650.chunk.css.map",
-    "static/js/2.d0125111.chunk.js.LICENSE.txt": "/xiax/static/js/2.d0125111.chunk.js.LICENSE.txt",
+    "static/js/2.09dc6570.chunk.js.LICENSE.txt": "/xiax/static/js/2.09dc6570.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/xiax/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.86dd4ac8.js",
-    "static/js/2.d0125111.chunk.js",
+    "static/js/2.09dc6570.chunk.js",
     "static/css/main.8cccc650.chunk.css",
-    "static/js/main.f8cccc77.chunk.js"
+    "static/js/main.cf3e8b9a.chunk.js"
   ]
 }
